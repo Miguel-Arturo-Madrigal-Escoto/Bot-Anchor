@@ -16,7 +16,6 @@ from googletrans import Translator, constants
 import requests
 import json, pprint
 from _datetime import date
-from keep_alive import keep_alive
 
 
 i = discord.Intents.default()

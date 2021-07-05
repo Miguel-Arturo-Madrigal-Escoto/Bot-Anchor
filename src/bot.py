@@ -82,7 +82,7 @@ async def help(ctx):
     
     embed.set_author(name=f'Anchor is Love, Anchor is Life',
                     icon_url='https://img.icons8.com/fluent/452/get-help.png')
-    embed.add_field(name='>hola', value='Recibir un saludo de Anchor', inline=False)
+    embed.add_field(name='>hi', value='Recibir un saludo de Anchor', inline=False)
     embed.add_field(name='>info', value='Consulta la información del servidor', inline=False)
     embed.add_field(name='>youtube n palabras_clave', value='Anchor realiza una búsqueda de "n" videos en YouTube de las palabras_clave', inline=False)
     embed.add_field(name='>play cancion', value='Anchor reproduce la canción proporcionada', inline=False)

@@ -1,1 +1,1 @@
-worker: python src/bot.py
+ECHO est  activado.

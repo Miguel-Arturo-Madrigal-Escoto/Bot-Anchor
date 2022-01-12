@@ -352,6 +352,6 @@ async def on_reaction_remove(reaction, user):
     await channel.send(f'{user.name} ha quitado {reaction.emoji} a {reaction.message.content}')
 
 #keep_alive()
-bot.run('ODYwMDAxNzkwMjI1NTQ3MjY0.YN05FA.iNf8yvgIacF3NxmKJDSbEv13aFk')
+bot.run('token')
 
 
